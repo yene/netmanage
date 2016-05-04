@@ -1,3 +1,3 @@
 # netmanage
 
-Check devices in lan and wake them up.
+Ping and wakeup devices in lan.
